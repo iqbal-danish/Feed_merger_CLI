@@ -18,8 +18,8 @@ console = Console()
 # Hardcode your primary feed URLs or local file paths here.
 # Running "python app.py" with no arguments will automatically merge these sources.
 DEFAULT_FEEDS = [
-    "https://www.ziprecruiter.com/feed/cpc_monstercareerbuilder_priority.xml",
-    "https://www.ziprecruiter.com/feed/cpc_monstercareerbuilder_standard.xml",
+    "http://rescarecb.atwebpages.com/test/P-test.xml",
+    "http://rescarecb.atwebpages.com/test/S-test.xml",
 ]
 
 
