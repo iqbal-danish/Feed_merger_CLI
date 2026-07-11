@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Unit test / cache reports
+.pytest_cache/
+pytest_temp/
+
+# Project specific ignores
+logs/
+output/
+downloads/
+duplicates.db
+duplicates.db-journal
+stats.json
